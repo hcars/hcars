@@ -1,8 +1,13 @@
 **Papers:**
 * [Complex Networks Conference 2020: Contagion Blocking]
 
+**Blocking the Propagation of Two Simultaneous**
 
-**Abstract** We consider the simultaneous propagation of two contagions over a social
+Contagions over Networks
+
+**Authors**: Carscadden, Kuhlman, Ravi, and Rosenkranz.
+
+**Abstract**:  We consider the simultaneous propagation of two contagions over a social
 network. We assume a threshold model for the propagation of the two contagions and
 use the formal framework of discrete dynamical systems. In particular, we study an
 optimization problem where the goal is to minimize the total number of infected nodes
