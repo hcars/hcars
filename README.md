@@ -5,6 +5,8 @@
 
     Contagions over Networks
 
+    **Link**: https://link.springer.com/chapter/10.1007/978-3-030-65347-7_38
+    
     **Authors**: Carscadden, Kuhlman, Ravi, and Rosenkranz.
 
     **Abstract**:  We consider the simultaneous propagation of two contagions over a social
