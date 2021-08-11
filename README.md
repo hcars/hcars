@@ -1,4 +1,4 @@
-**Papers:**
+# Papers:
 * [Complex Networks Conference 2020: Contagion Blocking]
 
     **Blocking the Propagation of Two Simultaneous**
@@ -19,3 +19,4 @@
         problem is NP-hard, we develop a heuristic based on a generalization of the set cover
         problem. Using experiments on three real-world networks, we compare the performance
         of the heuristic with some baseline methods.
+# url[Website](https://hcars.github.io/)
